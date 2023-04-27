@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\bin\Debug\net6.0\MandatoryLibrary.deps.json
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\bin\Debug\net6.0\MandatoryLibrary.dll
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\bin\Debug\net6.0\MandatoryLibrary.pdb
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.AssemblyInfo.cs
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.dll
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\refint\MandatoryLibrary.dll
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\MandatoryLibrary.pdb
+C:\Users\andre\Desktop\Advanced Software\MandatoryAssignment\MandatoryAssignment\MandatoryLibrary\obj\Debug\net6.0\ref\MandatoryLibrary.dll

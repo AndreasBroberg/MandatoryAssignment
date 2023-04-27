@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MandatoryAssignment/1.0.0": {
+        "dependencies": {
+          "MandatoryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MandatoryAssignment.dll": {}
+        }
+      },
+      "MandatoryLibrary/1.0.0": {
+        "runtime": {
+          "MandatoryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MandatoryAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MandatoryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
